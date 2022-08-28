@@ -1,5 +1,5 @@
 from flask import Flask, request, url_for, redirect, render_template, jsonify
-import xgboost
+
 import pandas as pd
 import joblib
 
